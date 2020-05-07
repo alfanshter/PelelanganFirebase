@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "10867971435",
+    "firebase_url": "https://aplikasi-pelelangan-udang.firebaseio.com",
+    "project_id": "aplikasi-pelelangan-udang",
+    "storage_bucket": "aplikasi-pelelangan-udang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10867971435:android:e975301d8e562699aa682e",
+        "android_client_info": {
+          "package_name": "com.alfanshter.udinlelang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10867971435-utaf3btbuf1rt4if1kj6vd9jpeg1b5m7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alfanshter.udinlelang",
+            "certificate_hash": "e6e78674f47c12407b0e5ce65dcdb5c837deafab"
+          }
+        },
+        {
+          "client_id": "10867971435-fnnmab1v1p46745b9e9rajt7sgl2hv7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL1aXhtgQ_QEuNTJqjPbQJmqRo2JeLSW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10867971435-fnnmab1v1p46745b9e9rajt7sgl2hv7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10867971435:android:1183491c8f10bcc9aa682e",
+        "android_client_info": {
+          "package_name": "com.alfanshter.udinlelangfix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10867971435-rnafsiq59le7jb9togckttdk2cassthp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alfanshter.udinlelangfix",
+            "certificate_hash": "e6e78674f47c12407b0e5ce65dcdb5c837deafab"
+          }
+        },
+        {
+          "client_id": "10867971435-fnnmab1v1p46745b9e9rajt7sgl2hv7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL1aXhtgQ_QEuNTJqjPbQJmqRo2JeLSW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10867971435-fnnmab1v1p46745b9e9rajt7sgl2hv7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
